@@ -27,6 +27,6 @@ test: off
 deploy: off
 
 artifacts:
-  - path: ./
+  - path: .\
     name: built dir
     type: zip
